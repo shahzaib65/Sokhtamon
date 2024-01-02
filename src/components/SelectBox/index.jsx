@@ -66,7 +66,7 @@ const SelectBox = React.forwardRef(
             }),
             control: (provided) => ({
               ...provided,
-              backgroundColor: "transparent",
+              backgroundColor: "#000",
               border: "0 !important",
               boxShadow: "0 !important",
               minHeight: "auto",
